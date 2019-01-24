@@ -1,0 +1,1 @@
+-Djava.security.policy=file:///usr/share/elasticsearch/plugins/elasticsearch-hanlp/plugin-security.policy
